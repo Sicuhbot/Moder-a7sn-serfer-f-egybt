@@ -23,7 +23,7 @@ async def on_message(message)
     if message.content == '-test'
     if message.content == '-test'
         await client.send_message(message.channel,'NICE BABE')
-client.run('NTQ2NTYyODE0NzY1MDM5NjI3.D0qDcw.rO44vtxIjSl-lvXmzMTaaOM_gas')
+client.run('NTQ2NTYyODE0NzY1MDM5NjI3.D0qPlQ.EAG9utQnPDf6Lx_WOJZiAYNJVIw')
 1234
     if message.content.startswith('-gamble')
         randomlist = [Win,Lose]
